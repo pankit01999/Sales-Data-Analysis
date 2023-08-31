@@ -1,1 +1,1 @@
-# Sales-Data-Analysis
+E-commerce Sales Insights Dataset and Power BI Dashboard Welcome to the E-commerce Sales Insights repository! Here, we present a comprehensive dataset and an interactive Power BI Dashboard that shed light on the dynamics of e-commerce sales and consumer behavior. Whether you're an analyst, a marketer, or a business strategist, this resource will provide you with valuable insights into the world of online retail.
